@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Middleware_TECUIDA</string>
+    <string name="txt_startDate">Data Inicial</string>
+    <string name="txt_startTime">Hora Inicial</string>
+    <string name="txt_lastDate">Data Final</string>
+    <string name="txt_lastTime">Hora Final</string>
+    <string name="txt_scanTime">Intervalo de escaneamento (ms)</string>
+    <string name="txt_dataExchangeTime">Intervalo de troca de dados (ms) - global</string>
+    <string name="txt_apply">Aplicar</string>
+
+    <string name="data_info">Info</string>
+    <string name="data_date">Data</string>
+    <string name="data_id">Nó Sensor</string>
+
+    <string name="toast_applied">Configurações aplicadas</string>
+    <string name="toast_maxList">Lista de dados muito grande, exibição reduzida</string>
+    <string name="menu_nodes">Nós Sensores conectados</string>
+    <string name="menu_config">Configurações</string>
+    <string name="menu_search">Procurar dado</string>
+    <string name="menu_realTime">Dados em tempo real</string>
+    <string name="txt_refresh">Atualizar</string>
+</resources>
